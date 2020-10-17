@@ -1,0 +1,22 @@
+body {
+  background-color: #f09526;
+}
+
+body h1 {
+  color: #9bba99;
+}
+
+body p {
+  text-align: right;
+  -webkit-text-decoration-style: dotted;
+          text-decoration-style: dotted;
+  color: ghostwhite;
+}
+
+body a {
+  color: #cf223f;
+  text-decoration: none;
+  font-size: 2.6em;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
